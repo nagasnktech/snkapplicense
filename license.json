@@ -1,0 +1,18 @@
+{
+  "BFEBFBFF000506E3": [ "-ANY-" ],
+  "178BFBFF00A60F12": [ "-ANY-" ],
+  "BFEBFBFF000B06A3": [ "-ANY-" ],
+  "": [ "-ANY-" ],
+  " ": [ "-ANY-" ],
+  "BFEBFBFF000406E3": [ "EsevaiApp.Server", "DroneLoanApp.Server", "HrApp.Server", "ContractManagementApp.Server", "CollegeApp.Server" ],
+  "BFEBFBFF000806EC": [ "CollegeApp.Server", "CustomerPortalApp.Server", "FleetManagementApp.Server" ],
+  "BFEBFBFF000806D1": [ "CustomerPortalApp.Server", "CollegeApp.Server", "HrApp.Server" ],
+  "BFEBFBFF000706E5": [ "CollegeApp.Server" ],
+  "BFEBFBFF000B06A2": [ "CollegeApp.Server", "FacilityManagementApp.Server" ],
+  "BFEBFBFF000306A9": [ "CollegeApp.Server", "HrApp.Server" ],
+  "BFEBFBFF000806C2": [ "CollegeApp.Server", "HrApp.Server", "ContractManagementApp.Server", "CrmCustomerApp.Server", "FacilityManagementApp.Server", "SgHrApp.Server", "WorkforcePlannerApp.Server", "MmCrmApp.Server" ],
+  "BFEBFBFF000806C1": [ "CollegeApp.Server", "ColumbiaCourtApp.Server" ],
+  "BFEBFBFF000A0653": [ "CollegeApp.Server", "RexReportingApp.Server" ],
+  "BFEBFBFF000906A4": [ "CollegeApp.Server", "RexReportingApp.Server", "CustomerPortalApp.Server" ],
+  "BFEBFBFF000906A3": [ "FacilityManagementApp.Server", "FleetManagementApp.Server" ]
+}
